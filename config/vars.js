@@ -3,6 +3,8 @@ if(!env){
     env = 'development';
 }
 console.log(`Env is`, env);
+
+//config properties are replaced with dummy values for security reasons.
 var config;
 switch(env){
     case 'development':
