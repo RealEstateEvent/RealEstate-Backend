@@ -1,0 +1,16 @@
+{
+  "name": "admin-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createAdmin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^5.9.20",
+    "prompt-sync": "^4.2.0"
+  }
+}
